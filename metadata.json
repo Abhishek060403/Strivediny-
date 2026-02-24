@@ -1,0 +1,5 @@
+{
+  "name": "strivediny",
+  "description": "A real-time language learning partner powered by Gemini 2.5 Native Audio.",
+  "requestFramePermissions": ["microphone"]
+}
